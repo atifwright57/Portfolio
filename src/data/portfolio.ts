@@ -37,7 +37,7 @@ export const portfolio = {
   philosophy:
     "Good data platforms are built for the people who depend on them: secure by design, explicit about quality, observable in production, and maintainable as systems and teams evolve.",
   email: "atifwright57@gmail.com",
-  github: "https://github.com/atifwright",
+  github: "https://github.com/atifwright57",
   linkedin: "",
   targetRoles: ["Senior Data Engineer", "Lead Data Engineer", "Staff Data Engineer"],
   skills: [
